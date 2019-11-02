@@ -7,6 +7,7 @@ public class Main {
 	boolean isRainy = !false;
 	 if (temperature > - 5 && temperature>30 ||  !isRainy) {
          System.out.println("Идем гулять");
+
          System.out.println(temperature);
 
 
